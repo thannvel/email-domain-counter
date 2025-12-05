@@ -1,6 +1,7 @@
 # email-domain-counter
 Email domain frequency analyzer using Python and SQLite.
-Project Overview
+Project Overview:
+
 This project provides a Python script that analyzes a dataset of email addresses. The script performs the following operations:
 - extracts domain names from each email address in the dataset
 - counts the occurrences of each unique domain
